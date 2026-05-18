@@ -168,11 +168,7 @@ Implemented in `train.py`.
 Example:
 
 ```python
-model = XGBoost(
-    n_estimators=10,
-    learning_rate=0.1,
-    max_depth=3
-)
+model = XGBoost(n_estimators=10,learning_rate=0.1,max_depth=3)
 
 model.fit(X, y)
 
