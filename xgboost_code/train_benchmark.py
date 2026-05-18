@@ -40,3 +40,11 @@ xgb_rmse = np.sqrt(np.mean((y - xgb_preds) ** 2))
 
 print("My XGBoost RMSE:", rmse)
 print("Real XGBoost RMSE:", xgb_rmse)
+
+#for exact algo
+#My XGBoost RMSE: 0.7416698909055253
+#Real XGBoost RMSE: 0.7226867066858472
+
+#for approximate algo
+#My XGBoost RMSE: 0.7416698909055253
+#Real XGBoost RMSE: 0.7226867066858472
