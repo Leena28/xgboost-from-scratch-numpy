@@ -1,6 +1,6 @@
 # XGBoost From Scratch (NumPy Implementation)
 
-A complete implementation of the **XGBoost research paper from scratch** using only **NumPy and Python** — including:
+A complete implementation of the **XGBoost research paper from scratch** using only **NumPy and Python** , including:
 
 * Gradient Boosting Trees
 * First & Second Order Optimization
