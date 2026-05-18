@@ -3,7 +3,7 @@ import pandas as pd
 
 from xgboost_scratch import XGBoost
 
-df = pd.read_csv(r"C:/Users/CG-DTE/Desktop/xgboost_implementation/data/california_housing.csv")
+df = pd.read_csv(r"california_housing.csv")
 
 X = df.drop(columns=["MedHouseVal"]).values
 y = df["MedHouseVal"].values
