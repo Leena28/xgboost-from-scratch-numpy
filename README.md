@@ -234,8 +234,6 @@ california_housing.csv
 
 # Future Improvements
 
-* Feature subsampling
-* Row subsampling
 * Histogram-based split finding
 * Parallel split computation
 * Classification support
