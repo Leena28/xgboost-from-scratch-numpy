@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-df=pd.read_csv(r"C:/Users/CG-DTE/Desktop/xgboost_implementation/data/california_housing.csv")
+df=pd.read_csv(r"california_housing.csv")
 x=df.drop(columns=["MedHouseVal"]).values
 y_true=df["MedHouseVal"].values
 
