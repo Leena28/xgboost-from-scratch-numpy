@@ -1,4 +1,4 @@
-# XGBoost From Scratch (NumPy Implementation)
+# XGBoost Research Paper From Scratch (NumPy Implementation)
 
 A complete implementation of the XGBoost research paper, **XGBoost: A Scalable Tree Boosting System** from scratch using only **NumPy and Python** , including:
 
